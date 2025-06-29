@@ -123,16 +123,16 @@ The application will be available at:
 
 ### 👥 Development Team (4 Members)
 
-1. **Arjun Sharma** - Full Stack Developer & Team Lead
+1. **Somya Jaiswal** - Full Stack Developer & Team Lead
    - React, Node.js, Python, Machine Learning, Flask
 
-2. **Priya Patel** - AI/ML Engineer
+2. **Jiya Darvai** - AI/ML Engineer
    - TensorFlow, Python, Data Science, Deep Learning, Scikit-learn
 
-3. **Rohit Kumar** - Frontend Developer
+3. **Anushka Pandey** - Frontend Developer
    - React, TypeScript, Tailwind CSS, UI/UX Design, Leaflet.js
 
-4. **Sneha Gupta** - Backend Developer & Data Engineer
+4. **Soumya Choubitkar** -Data Engineer
    - Flask, PostgreSQL, Redis, Docker, AWS, Data Engineering
 
 ## Features in Detail
@@ -197,9 +197,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-- **Team Email**: team@aqimonitor.com
-- **GitHub**: https://github.com/aqimonitor
-- **Project Website**: https://aqimonitor.com
+- **Team Email**: somya.jaiswal1218@gmail.com
+- **GitHub**: https://github.com/somya170
 
 ---
 
